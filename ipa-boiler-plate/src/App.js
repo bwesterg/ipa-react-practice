@@ -2,9 +2,7 @@ import './App.css';
 
 // to run the json server run => json-server --watch db.json
 
-//testing 123 to ensure github repository is working correctly. -BW
-
-//final test for github
+//Trying to figure out github stuff, ensure files are merging.
 
 function App() {
   return (
